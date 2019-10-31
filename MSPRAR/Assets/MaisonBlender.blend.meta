@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 97e247227729be9499771685be390960
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: chimney
+    100004: cirular_window
+    100006: Cube
+    100008: door
+    100010: enivornment
+    100012: fence
+    100014: house
+    100016: house_2
+    100018: land
+    100020: leaves
+    100022: leaves_2
+    100024: leaves_3
+    100026: leaves_4
+    100028: main
+    100030: //RootNode
+    100032: Null
+    100034: Null_1
+    100036: Null_2
+    100038: Null_3
+    100040: roof
+    100042: trunk
+    100044: trunk_2
+    100046: trunk_3
+    100048: trunk_4
+    100050: window
+    100052: wood
+    400000: Camera
+    400002: chimney
+    400004: cirular_window
+    400006: Cube
+    400008: door
+    400010: enivornment
+    400012: fence
+    400014: house
+    400016: house_2
+    400018: land
+    400020: leaves
+    400022: leaves_2
+    400024: leaves_3
+    400026: leaves_4
+    400028: main
+    400030: //RootNode
+    400032: Null
+    400034: Null_1
+    400036: Null_2
+    400038: Null_3
+    400040: roof
+    400042: trunk
+    400044: trunk_2
+    400046: trunk_3
+    400048: trunk_4
+    400050: window
+    400052: wood
+    2000000: Camera
+    2100000: Material
+    2100002: trunk
+    2100004: leaves
+    2100006: land
+    2100008: roof
+    2100010: window
+    2100012: circle window
+    2100014: chimney
+    2100016: door
+    2100018: wood
+    2100020: main
+    2100022: fence
+    2300000: chimney
+    2300002: cirular_window
+    2300004: Cube
+    2300006: door
+    2300008: fence
+    2300010: land
+    2300012: leaves
+    2300014: leaves_2
+    2300016: leaves_3
+    2300018: leaves_4
+    2300020: main
+    2300022: roof
+    2300024: trunk
+    2300026: trunk_2
+    2300028: trunk_3
+    2300030: trunk_4
+    2300032: window
+    2300034: wood
+    3300000: chimney
+    3300002: cirular_window
+    3300004: Cube
+    3300006: door
+    3300008: fence
+    3300010: land
+    3300012: leaves
+    3300014: leaves_2
+    3300016: leaves_3
+    3300018: leaves_4
+    3300020: main
+    3300022: roof
+    3300024: trunk
+    3300026: trunk_2
+    3300028: trunk_3
+    3300030: trunk_4
+    3300032: window
+    3300034: wood
+    4300000: Cube
+    4300002: trunk
+    4300004: leaves
+    4300006: land
+    4300008: trunk_2
+    4300010: leaves_2
+    4300012: trunk_3
+    4300014: leaves_3
+    4300016: trunk_4
+    4300018: leaves_4
+    4300020: roof
+    4300022: window
+    4300024: cirular_window
+    4300026: chimney
+    4300028: door
+    4300030: wood
+    4300032: main
+    4300034: fence
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
